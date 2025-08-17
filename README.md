@@ -29,19 +29,6 @@ Criar um modelo de previsão de vendas utilizando técnicas de Machine Learning,
 - Scikit-learn
 - XGBoost
 
----
-
-##  Estrutura do projeto
-
-rossmann-store-sales/
-│── data/ # Datasets brutos e tratados
-│── notebooks/ # Notebooks Jupyter (EDA, modelagem)
-│── models/ # Modelos salvos
-│── outputs/ # Gráficos, tabelas e previsões
-│── requirements.txt # Dependências do projeto
-│── .gitignore # Arquivos e pastas ignorados pelo Git
-│── README.md # Documentação do projeto
-
 
 ##  Como rodar o projeto
 
@@ -67,6 +54,7 @@ Insight: lojas com promoções ativas apresentaram um aumento médio de 20% nas 
 
  Fonte dos dados
 Os dados utilizados neste projeto estão disponíveis publicamente no Kaggle - Rossmann Store Sales.
+
 
 
 
